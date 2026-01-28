@@ -1,4 +1,4 @@
-# Firebase Firestore Database Structure for School App
+    # Firebase Firestore Database Structure for School App
 
 This document outlines the proposed Firestore database structure for a school app with admin, teacher, and student roles. The structure is designed to be scalable, secure, and efficient for querying.
 
